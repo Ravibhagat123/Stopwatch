@@ -1,0 +1,41 @@
+.navbar
+{
+    text-align: center;
+    
+}
+.navbar-brand
+{
+    text-decoration: none;
+    font-size: 25px;
+}
+.container
+{
+    width: 330px;
+    height: 40vh;
+    background-color:cadetblue;
+    margin-left: 600px;
+}
+.heading
+{
+    text-align: center;
+    background-color: chartreuse;
+    height: 70px;
+    padding-top: 15px;
+}
+.display
+{
+    text-align: center;
+}
+.buttom
+{
+    text-align: center;
+}
+.start
+{
+    width: 90px;
+    margin: 4px;
+    background-color:white;
+    border-radius: 18px;
+    color: blue;
+    height: 40px;
+}
